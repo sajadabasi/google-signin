@@ -1,3 +1,7 @@
+# Fork Detial:
+- fix build error
+
+
 ![React Native Google Sign In](img/header.png)
 
 <p align="center">
